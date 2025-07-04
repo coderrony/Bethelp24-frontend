@@ -4,6 +4,7 @@ save2.txt
 save.txt
 note.txt
 note2.txt
+package-lock.json
 
 # dependencies
 /node_modules
